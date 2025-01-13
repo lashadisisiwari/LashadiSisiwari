@@ -1,3 +1,9 @@
+
+
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
+
+
 <h1 align="center">Hi 👋, I'm Lashadi Sisiwari</h1>
 <h3 align="center">A motivated, enthusiastic and hardworking Undergraduated Student, from Sri Lanka</h3>
 
