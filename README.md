@@ -3,7 +3,7 @@
 <h3 align="center">A motivated, enthusiastic and hardworking Undergraduated Student, from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lashadisisiwari&label=Profile%20views&color=0e75b6&style=flat" alt="lashadisisiwari" /> </p>
-
+---
 - 🌱 I’m currently learning **Java, MySql, Hibarnate, HTML, JavaFx, CSS**
 
 - 🤝 I’m looking for help with **Coding**
